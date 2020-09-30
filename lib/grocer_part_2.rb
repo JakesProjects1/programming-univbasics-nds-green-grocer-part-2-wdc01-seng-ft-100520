@@ -20,7 +20,7 @@ def apply_coupons(cart, coupons)
     coupons_index += 1
   end
   cart
-end	end
+end	
     
     
 
